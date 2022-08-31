@@ -1,0 +1,13 @@
+.container{
+    max-height: 400px;
+    max-width: 400px;
+    margin-top: 15%;
+}
+.font{
+    font-size: 30px;
+    text-align: center;
+}
+
+.align{
+    text-align: center;
+}
